@@ -1,4 +1,4 @@
-🔐 Password Generator (Frontend Only)
+🔐 Password Generator
 
 A simple and responsive Password Generator Web Application built using HTML, CSS, and JavaScript.
 This project allows users to generate secure passwords based on selected criteria like length, uppercase letters, numbers, and symbols.

@@ -38,7 +38,7 @@ password-generator/
 ⚙️ How to Run
 
 1. Download or clone this repository:
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/shreyashpawar-11/password-generator.git
 2. Open the project folder
 3. Double-click on "index.html" or open it in any web browser
 

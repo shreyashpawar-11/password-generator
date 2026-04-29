@@ -44,12 +44,6 @@ password-generator/
 
 ---
 
-📸 Screenshot
-
-(Add a screenshot here if needed)
-
----
-
 💡 How It Works
 
 - User selects password length and options

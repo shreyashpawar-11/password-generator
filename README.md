@@ -80,9 +80,7 @@ password-generator/
 ---
 
 🙌 Author
-
-Your Name
-Diploma in Computer Technology Student
+Shreyash G. Pawar
 
 ---
 
